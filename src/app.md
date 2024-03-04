@@ -30,7 +30,7 @@ drink sont obligatoires" } dans le cas où un des 2 champs est vide.
 
 11 - l'utilisateur clique sur le lien "Next"
 
-12- l'utilisateur est redirigé sur la page 2
+12 - l'utilisateur est redirigé sur la page 2
 
 13 - Un titre "Page 2" est dans le document
 
@@ -50,9 +50,9 @@ drink sont obligatoires" } dans le cas où un des 2 champs est vide.
 
 21 - Un texte "Please confirm your choices" est dans le document
 
-22 - Un texte label "favorite food" a pour contenu "Les pâtes"
+22 - Un texte label "Favorite Food" a pour contenu "Les pâtes"
 
-23 - Un texte label "favorite drink" a pour contenu "Bière"
+23 - Un texte label "Favorite Drink" a pour contenu "Bière"
 
 24 - un lien "Go back" est dans le document
 
@@ -62,7 +62,7 @@ drink sont obligatoires" } dans le cas où un des 2 champs est vide.
 
 27 - l'utilisateur est redirigé sur la page de Félicitation
 
-28 - Un titre "Congrats.You did it." est dans le document
+28 - Un titre "Congrats. You did it." est dans le document
 
 29 - un lien "Go home" est dans le document
 
@@ -96,7 +96,7 @@ drink sont obligatoires" } dans le cas où un des 2 champs est vide.
 
 11 - l'utilisateur clique sur le lien "Next"
 
-12- l'utilisateur est redirigé sur la page 2
+12 - l'utilisateur est redirigé sur la page 2
 
 13 - Un titre "Page 2" est dans le document
 
